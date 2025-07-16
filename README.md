@@ -104,7 +104,7 @@ We implemented a straightforward collaborative filtering system that:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/denda0duong/music-recsys
    cd RecSys/final
    ```
 
